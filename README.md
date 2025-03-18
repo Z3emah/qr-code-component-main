@@ -8,13 +8,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Screenshot](QR-code-preview.png)
 
 
+### Link
+
+[QR-code-component](https://github.com/Z3emah/qr-code-component-main)
+
+
+
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-  
 
+ 
 
 ## Author
 
