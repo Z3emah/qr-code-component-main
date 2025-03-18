@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/images/QR-code preview.png)
+![Screenshot](/images/QR-code-preview.png)
 
 
 ## My process
