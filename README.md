@@ -10,7 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Link
 
-[QR-code-component](https://github.com/Z3emah/qr-code-component-main)
+- Repository - [](https://github.com/Z3emah/qr-code-component-main)
+- Live site - [](https://z3emah.github.io/qr-code-component-main/)
 
 
 
